@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950056052674",
+    "project_id": "sikopi-91281",
+    "storage_bucket": "sikopi-91281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950056052674:android:0a165cdc3f1fff0c63585b",
+        "android_client_info": {
+          "package_name": "com.example.sikopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950056052674-md2675idtg7qe5ff8tjnibed36gou9te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCY5fTHeNrrsClW_NkA0rifYDbmXHe_vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950056052674-md2675idtg7qe5ff8tjnibed36gou9te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

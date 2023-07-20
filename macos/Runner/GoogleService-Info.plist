@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950056052674-ii8m6l1fivob115utpfqavmi232ntg3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950056052674-ii8m6l1fivob115utpfqavmi232ntg3e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeNhvk2xPghCqDAWzbr0FGaz1HinxLMfg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950056052674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sikopi</string>
+	<key>PROJECT_ID</key>
+	<string>sikopi-91281</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sikopi-91281.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950056052674:ios:743500c616cc0aea63585b</string>
+</dict>
+</plist>
